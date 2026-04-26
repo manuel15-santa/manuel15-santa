@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Don't%20Stop%20Building&fontSize=40&fontColor=ffffff&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=200&section=header&text=Don't%20Stop%20Building&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=&fontFamily=Georgia" alt="header" />
 </p>
 
 <!-- Stack -->
@@ -10,5 +10,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=100&section=footer" />
 </p>
