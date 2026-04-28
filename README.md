@@ -4,9 +4,8 @@
 </p>
 <!-- Stack -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,tailwind,vite,figma,github,vercel&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,vite,figma,tailwind,vscode,github,vercel&perline=5&theme=dark" />
 </p>
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=100&section=footer" />
-</p>
