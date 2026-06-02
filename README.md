@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=200&section=header&text=Don't%20Stop%20Building&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=14&descColor=555555"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=Don't%20Stop%20Building&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=14&descColor=888888"/>
 
 <!-- STACK -->
 <br/>
@@ -30,6 +30,6 @@
 <br/>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=80&section=footer"/>
 
 </div>
