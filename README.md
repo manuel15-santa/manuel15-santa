@@ -14,7 +14,7 @@
 
 <br/>
 
-*Construyendo, aprendiendo, iterando.*
+*Building, learning, iterating.*
 
 <br/>
 
