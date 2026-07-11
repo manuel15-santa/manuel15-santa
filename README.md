@@ -1,3 +1,23 @@
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,vscode,express,mongodb,vite,figma,tailwind,github,vercel&perline=5&theme=dark" alt="Tech Stack" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=150&section=header&text=Manuel%20Torres&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=14&descColor=888888" alt="header" />
+
+<br/>
+
+**Frontend Developer · TypeScript · React · Next.js**
+
+<br/>
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,vscode,express,mongodb,vite,figma,tailwind,github,vercel&perline=5&theme=dark" alt="Tech Stack" />
+
+<br/>
+
+*Construyendo, aprendiendo, iterando.*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=manuel15-santa&color=blue&style=flat" alt="Profile visits" />
+
 </div>
