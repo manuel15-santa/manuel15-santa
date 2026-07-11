@@ -8,7 +8,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,vscode,express,mongodb,vite,figma,tailwind,github,vercel&perline=5&theme=dark" alt="Tech Stack" />
 
@@ -18,6 +18,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=manuel15-santa&color=blue&style=flat" alt="Profile visits" />
+<a href="https://open.spotify.com/user/kzfxfgdgis1p4oxcn7iobjg5n">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" alt="Spotify" />
+</a>
 
 </div>
